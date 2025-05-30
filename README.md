@@ -58,6 +58,3 @@
   <!-- Add more social media links as needed -->
 </p>
 
-<p align="center">
-  <img src="https://github.com/vunamdddddds/vunamdddddds/blob/output/github-contribution-grid-snake.svg" alt="snake">
-</p>
